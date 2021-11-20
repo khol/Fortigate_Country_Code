@@ -20,4 +20,7 @@ config firewall addrgrp
   edit "REGION-SOUTH-LATIN-AMERICA"
     set member "Antigua and Barbuda" "Anguilla" "Netherlands Antilles" "Argentina" "Aruba" "Barbados" "Bermuda" "Bolivia" "Brazil" "Bahamas" "Belize" "Chile" "Colombia" "Costa Rica" "Cuba" "Dominica" "Dominican Republic" "Ecuador" "Falkland Islands" "Grenada" "Guatemala" "Guyana" "Honduras" "Haiti" "Jamaica" "Saint Kitts and Nevis" "Cayman Islands" "Saint Lucia" "Montserrat" "Mexico" "Nicaragua" "Panama" "Peru" "Puerto" "Paraguay" "Suriname" "El Salvador" "Turks and Caicos Islands" "Trinidad and Tobago" "Uruguay" "Saint Vincent and the Grenadines" "Venezuela" "British Virgin Islands" "U.S. Virgin Islands" "Saint Barthelemy" "Saint Martin"
   next
+   edit "REGION-RUSSIA"
+    set member "Russia" 
+  next
 end 
