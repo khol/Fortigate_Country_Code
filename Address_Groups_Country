@@ -1,0 +1,23 @@
+config firewall addrgrp
+  edit "REGION-AFRICA"
+    set member "Angola" "Burkina Faso" "Burundi" "Benin" "Botswana" "Democratic Republic of the Congo" "Central African Republic" "Republic of the Congo" "Cameroon" "Cape Verde" "Western Sahara" "Eritrea" "Ethiopia" "Gabon" "Ghana" "Gambia" "Guinea" "Equatorial Guinea" "Guinea Bissau" "Kenya" "Liberia" "Lesotho" "Madagascar" "Mali" "Mauritius" "Malawi" "Mozambique" "Namibia" "Niger" "Nigeria" "Rwanda" "Seychelles" "South Sudan" "Saint Helena" "Sierra Leone" "Senegal" "Sao Tome and Principe" "Swaziland" "Chad" "Togo" "Tanzania" "Uganda" "Mayotte" "South Africa" "Zambia" "Zimbabwe" 
+  next
+  edit "REGION-ARAB-STATES"
+    set member "Bahrain" "Djibouti" "Algeria" "Comoros" "Morocco" "Mauritania" "Somalia" "Tunisia" 
+  next
+  edit "REGION-ASIA-PACIFIC"
+    set member "Afghanistan" "Antarctica" "American Samoa" "Australia" "Azerbaijan" "Bangladesh" "Brunei" "Bhutan" "Cocos Islands" "Cook Islands" "China" "Christmas Island" "Fiji" "Micronesia" "Guam" "Hong Kong" "Indonesia" "India" "British Indian Ocean Territory" "Japan" "Kyrgyzstan" "Cambodia" "Kiribati" "North Korea" "South Korea" "Kazakhstan" "Sri Lanka" "Marshall Islands" "Myanmar" "Mongolia" "Macau" "Northern Mariana Islands" "Maldives" "Malaysia" "New Caledonia" "Nepal" "Nauru" "Niue" "New Zealand" "French Polynesia" "Papua New Guinea" "Philippines" "Pakistan" "Pitcairn" "Palau" "Reunion" "Solomon Islands" "Singapore" "Syria" "Thailand" "Tajikistan" "Tokelau" "Turkmenistan" "Tonga" "East Timor" "Tuvalu" "Taiwan" "Uzbekistan" "Vietnam" "Vanuatu" "Wallis and Futuna" "Samoa"
+  next
+  edit "REGION-EUROPE"
+    set member "Russia" "Sweden" "Andorra" "Albania" "Armenia" "Austria" "Bosnia and Herzegovina" "Belgium" "Bulgaria" "Belarus" "Switzerland" "Cyprus" "Czech Republic" "Germany" "Denmark" "Estonia" "Spain" "Finland" "Faroe Islands" "France" "United Kingdom" "Georgia" "Gibraltar" "Greenland" "Greece" "Croatia" "Hungary" "Ireland" "Israel" "Iceland" "Italy" "Liechtenstein" "Lithuania" "Luxembourg" "Latvia" "Monaco" "Moldova" "Macedonia" "Malta" "Netherlands" "Norway" "Poland" "Portugal" "Romania" "Slovenia" "Svalbard and Jan Mayen" "Slovakia" "San Marino" "Turkey" "Ukraine" "Vatican" "Serbia" "Montenegro" "Guernsey" "Isle of Man" "Jersey"
+  next
+  edit "REGION-MIDDLE-EAST"
+    set member "United Arab Emirates" "Egypt" "Iraq" "Iran" "Jordan" "Kuwait" "Lebanon" "Libya" "Oman" "Qatar" "Saudi Arabia" "Yemen"
+  next
+  edit "REGION-NORTH-AMERICA"
+    set member "Canada" "Saint Pierre and Miquelon" "United States"
+  next
+  edit "REGION-SOUTH-LATIN-AMERICA"
+    set member "Antigua and Barbuda" "Anguilla" "Netherlands Antilles" "Argentina" "Aruba" "Barbados" "Bermuda" "Bolivia" "Brazil" "Bahamas" "Belize" "Chile" "Colombia" "Costa Rica" "Cuba" "Dominica" "Dominican Republic" "Ecuador" "Falkland Islands" "Grenada" "Guatemala" "Guyana" "Honduras" "Haiti" "Jamaica" "Saint Kitts and Nevis" "Cayman Islands" "Saint Lucia" "Montserrat" "Mexico" "Nicaragua" "Panama" "Peru" "Puerto" "Paraguay" "Suriname" "El Salvador" "Turks and Caicos Islands" "Trinidad and Tobago" "Uruguay" "Saint Vincent and the Grenadines" "Venezuela" "British Virgin Islands" "U.S. Virgin Islands" "Saint Barthelemy" "Saint Martin"
+  next
+end 
