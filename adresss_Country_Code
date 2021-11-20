@@ -1,0 +1,962 @@
+
+config firewall address
+edit "Afghanistan"
+  set type geography
+  set country "AF"
+next
+edit "Albania"
+  set type geography
+  set country "AL"
+next
+edit "Algeria"
+  set type geography
+  set country "DZ"
+next
+edit "American Samoa"
+  set type geography
+  set country "AS"
+next
+edit "Andorra"
+  set type geography
+  set country "AD"
+next
+edit "Angola"
+  set type geography
+  set country "AO"
+next
+edit "Anguilla"
+  set type geography
+  set country "AI"
+next
+edit "Antarctica"
+  set type geography
+  set country "AQ"
+next
+edit "Antigua and Barbuda"
+  set type geography
+  set country "AG"
+next
+edit "Argentina"
+  set type geography
+  set country "AR"
+next
+edit "Armenia"
+  set type geography
+  set country "AM"
+next
+edit "Aruba"
+  set type geography
+  set country "AW"
+next
+edit "Australia"
+  set type geography
+  set country "AU"
+next
+edit "Austria"
+  set type geography
+  set country "AT"
+next
+edit "Azerbaijan"
+  set type geography
+  set country "AZ"
+next
+edit "Bahamas"
+  set type geography
+  set country "BS"
+next
+edit "Bahrain"
+  set type geography
+  set country "BH"
+next
+edit "Bangladesh"
+  set type geography
+  set country "BD"
+next
+edit "Barbados"
+  set type geography
+  set country "BB"
+next
+edit "Belarus"
+  set type geography
+  set country "BY"
+next
+edit "Belgium"
+  set type geography
+  set country "BE"
+next
+edit "Belize"
+  set type geography
+  set country "BZ"
+next
+edit "Benin"
+  set type geography
+  set country "BJ"
+next
+edit "Bermuda"
+  set type geography
+  set country "BM"
+next
+edit "Bhutan"
+  set type geography
+  set country "BT"
+next
+edit "Bolivia"
+  set type geography
+  set country "BO"
+next
+edit "Bosnia and Herzegovina"
+  set type geography
+  set country "BA"
+next
+edit "Botswana"
+  set type geography
+  set country "BW"
+next
+edit "Brazil"
+  set type geography
+  set country "BR"
+next
+edit "British Indian Ocean Territory"
+  set type geography
+  set country "IO"
+next
+edit "British Virgin Islands"
+  set type geography
+  set country "VG"
+next
+edit "Brunei"
+  set type geography
+  set country "BN"
+next
+edit "Bulgaria"
+  set type geography
+  set country "BG"
+next
+edit "Burkina Faso"
+  set type geography
+  set country "BF"
+next
+edit "Burundi"
+  set type geography
+  set country "BI"
+next
+edit "Cambodia"
+  set type geography
+  set country "KH"
+next
+edit "Cameroon"
+  set type geography
+  set country "CM"
+next
+edit "Canada"
+  set type geography
+  set country "CA"
+next
+edit "Cape Verde"
+  set type geography
+  set country "CV"
+next
+edit "Cayman Islands"
+  set type geography
+  set country "KY"
+next
+edit "Central African Republic"
+  set type geography
+  set country "CF"
+next
+edit "Chad"
+  set type geography
+  set country "TD"
+next
+edit "Chile"
+  set type geography
+  set country "CL"
+next
+edit "China"
+  set type geography
+  set country "CN"
+next
+edit "Christmas Island"
+  set type geography
+  set country "CX"
+next
+edit "Cocos Islands"
+  set type geography
+  set country "CC"
+next
+edit "Colombia"
+  set type geography
+  set country "CO"
+next
+edit "Comoros"
+  set type geography
+  set country "KM"
+next
+edit "Cook Islands"
+  set type geography
+  set country "CK"
+next
+edit "Costa Rica"
+  set type geography
+  set country "CR"
+next
+edit "Croatia"
+  set type geography
+  set country "HR"
+next
+edit "Cuba"
+  set type geography
+  set country "CU"
+next
+edit "Curacao"
+  set type geography
+  set country "CW"
+next
+edit "Cyprus"
+  set type geography
+  set country "CY"
+next
+edit "Czech Republic"
+  set type geography
+  set country "CZ"
+next
+edit "Democratic Republic of the Congo"
+  set type geography
+  set country "CD"
+next
+edit "Denmark"
+  set type geography
+  set country "DK"
+next
+edit "Djibouti"
+  set type geography
+  set country "DJ"
+next
+edit "Dominica"
+  set type geography
+  set country "DM"
+next
+edit "Dominican Republic"
+  set type geography
+  set country "DO"
+next
+edit "East Timor"
+  set type geography
+  set country "TL"
+next
+edit "Ecuador"
+  set type geography
+  set country "EC"
+next
+edit "Egypt"
+  set type geography
+  set country "EG"
+next
+edit "El Salvador"
+  set type geography
+  set country "SV"
+next
+edit "Equatorial Guinea"
+  set type geography
+  set country "GQ"
+next
+edit "Eritrea"
+  set type geography
+  set country "ER"
+next
+edit "Estonia"
+  set type geography
+  set country "EE"
+next
+edit "Ethiopia"
+  set type geography
+  set country "ET"
+next
+edit "Falkland Islands"
+  set type geography
+  set country "FK"
+next
+edit "Faroe Islands"
+  set type geography
+  set country "FO"
+next
+edit "Fiji"
+  set type geography
+  set country "FJ"
+next
+edit "Finland"
+  set type geography
+  set country "FI"
+next
+edit "France"
+  set type geography
+  set country "FR"
+next
+edit "French Polynesia"
+  set type geography
+  set country "PF"
+next
+edit "Gabon"
+  set type geography
+  set country "GA"
+next
+edit "Gambia"
+  set type geography
+  set country "GM"
+next
+edit "Georgia"
+  set type geography
+  set country "GE"
+next
+edit "Germany"
+  set type geography
+  set country "DE"
+next
+edit "Ghana"
+  set type geography
+  set country "GH"
+next
+edit "Gibraltar"
+  set type geography
+  set country "GI"
+next
+edit "Greece"
+  set type geography
+  set country "GR"
+next
+edit "Greenland"
+  set type geography
+  set country "GL"
+next
+edit "Grenada"
+  set type geography
+  set country "GD"
+next
+edit "Guam"
+  set type geography
+  set country "GU"
+next
+edit "Guatemala"
+  set type geography
+  set country "GT"
+next
+edit "Guernsey"
+  set type geography
+  set country "GG"
+next
+edit "Guinea"
+  set type geography
+  set country "GN"
+next
+edit "Guinea Bissau"
+  set type geography
+  set country "GW"
+next
+edit "Guyana"
+  set type geography
+  set country "GY"
+next
+edit "Haiti"
+  set type geography
+  set country "HT"
+next
+edit "Honduras"
+  set type geography
+  set country "HN"
+next
+edit "Hong Kong"
+  set type geography
+  set country "HK"
+next
+edit "Hungary"
+  set type geography
+  set country "HU"
+next
+edit "Iceland"
+  set type geography
+  set country "IS"
+next
+edit "India"
+  set type geography
+  set country "IN"
+next
+edit "Indonesia"
+  set type geography
+  set country "ID"
+next
+edit "Iran"
+  set type geography
+  set country "IR"
+next
+edit "Iraq"
+  set type geography
+  set country "IQ"
+next
+edit "Ireland"
+  set type geography
+  set country "IE"
+next
+edit "Isle of Man"
+  set type geography
+  set country "IM"
+next
+edit "Israel"
+  set type geography
+  set country "IL"
+next
+edit "Italy"
+  set type geography
+  set country "IT"
+next
+edit "Ivory Coast"
+  set type geography
+  set country "CI"
+next
+edit "Jamaica"
+  set type geography
+  set country "JM"
+next
+edit "Japan"
+  set type geography
+  set country "JP"
+next
+edit "Jersey"
+  set type geography
+  set country "JE"
+next
+edit "Jordan"
+  set type geography
+  set country "JO"
+next
+edit "Kazakhstan"
+  set type geography
+  set country "KZ"
+next
+edit "Kenya"
+  set type geography
+  set country "KE"
+next
+edit "Kiribati"
+  set type geography
+  set country "KI"
+next
+edit "Kosovo"
+  set type geography
+  set country "XK"
+next
+edit "Kuwait"
+  set type geography
+  set country "KW"
+next
+edit "Kyrgyzstan"
+  set type geography
+  set country "KG"
+next
+edit "Laos"
+  set type geography
+  set country "LA"
+next
+edit "Latvia"
+  set type geography
+  set country "LV"
+next
+edit "Lebanon"
+  set type geography
+  set country "LB"
+next
+edit "Lesotho"
+  set type geography
+  set country "LS"
+next
+edit "Liberia"
+  set type geography
+  set country "LR"
+next
+edit "Libya"
+  set type geography
+  set country "LY"
+next
+edit "Liechtenstein"
+  set type geography
+  set country "LI"
+next
+edit "Lithuania"
+  set type geography
+  set country "LT"
+next
+edit "Luxembourg"
+  set type geography
+  set country "LU"
+next
+edit "Macau"
+  set type geography
+  set country "MO"
+next
+edit "Macedonia"
+  set type geography
+  set country "MK"
+next
+edit "Madagascar"
+  set type geography
+  set country "MG"
+next
+edit "Malawi"
+  set type geography
+  set country "MW"
+next
+edit "Malaysia"
+  set type geography
+  set country "MY"
+next
+edit "Maldives"
+  set type geography
+  set country "MV"
+next
+edit "Mali"
+  set type geography
+  set country "ML"
+next
+edit "Malta"
+  set type geography
+  set country "MT"
+next
+edit "Marshall Islands"
+  set type geography
+  set country "MH"
+next
+edit "Mauritania"
+  set type geography
+  set country "MR"
+next
+edit "Mauritius"
+  set type geography
+  set country "MU"
+next
+edit "Mayotte"
+  set type geography
+  set country "YT"
+next
+edit "Mexico"
+  set type geography
+  set country "MX"
+next
+edit "Micronesia"
+  set type geography
+  set country "FM"
+next
+edit "Moldova"
+  set type geography
+  set country "MD"
+next
+edit "Monaco"
+  set type geography
+  set country "MC"
+next
+edit "Mongolia"
+  set type geography
+  set country "MN"
+next
+edit "Montenegro"
+  set type geography
+  set country "ME"
+next
+edit "Montserrat"
+  set type geography
+  set country "MS"
+next
+edit "Morocco"
+  set type geography
+  set country "MA"
+next
+edit "Mozambique"
+  set type geography
+  set country "MZ"
+next
+edit "Myanmar"
+  set type geography
+  set country "MM"
+next
+edit "Namibia"
+  set type geography
+  set country "NA"
+next
+edit "Nauru"
+  set type geography
+  set country "NR"
+next
+edit "Nepal"
+  set type geography
+  set country "NP"
+next
+edit "Netherlands"
+  set type geography
+  set country "NL"
+next
+edit "Netherlands Antilles"
+  set type geography
+  set country "AN"
+next
+edit "New Caledonia"
+  set type geography
+  set country "NC"
+next
+edit "New Zealand"
+  set type geography
+  set country "NZ"
+next
+edit "Nicaragua"
+  set type geography
+  set country "NI"
+next
+edit "Niger"
+  set type geography
+  set country "NE"
+next
+edit "Nigeria"
+  set type geography
+  set country "NG"
+next
+edit "Niue"
+  set type geography
+  set country "NU"
+next
+edit "North Korea"
+  set type geography
+  set country "KP"
+next
+edit "Northern Mariana Islands"
+  set type geography
+  set country "MP"
+next
+edit "Norway"
+  set type geography
+  set country "NO"
+next
+edit "Oman"
+  set type geography
+  set country "OM"
+next
+edit "Pakistan"
+  set type geography
+  set country "PK"
+next
+edit "Palau"
+  set type geography
+  set country "PW"
+next
+edit "Palestine"
+  set type geography
+  set country "PS"
+next
+edit "Panama"
+  set type geography
+  set country "PA"
+next
+edit "Papua New Guinea"
+  set type geography
+  set country "PG"
+next
+edit "Paraguay"
+  set type geography
+  set country "PY"
+next
+edit "Peru"
+  set type geography
+  set country "PE"
+next
+edit "Philippines"
+  set type geography
+  set country "PH"
+next
+edit "Pitcairn"
+  set type geography
+  set country "PN"
+next
+edit "Poland"
+  set type geography
+  set country "PL"
+next
+edit "Portugal"
+  set type geography
+  set country "PT"
+next
+edit "Puerto"
+  set type geography
+  set country "PR"
+next
+edit "Qatar"
+  set type geography
+  set country "QA"
+next
+edit "Republic of the Congo"
+  set type geography
+  set country "CG"
+next
+edit "Reunion"
+  set type geography
+  set country "RE"
+next
+edit "Romania"
+  set type geography
+  set country "RO"
+next
+edit "Russia"
+  set type geography
+  set country "RU"
+next
+edit "Rwanda"
+  set type geography
+  set country "RW"
+next
+edit "Saint Barthelemy"
+  set type geography
+  set country "BL"
+next
+edit "Saint Helena"
+  set type geography
+  set country "SH"
+next
+edit "Saint Kitts and Nevis"
+  set type geography
+  set country "KN"
+next
+edit "Saint Lucia"
+  set type geography
+  set country "LC"
+next
+edit "Saint Martin"
+  set type geography
+  set country "MF"
+next
+edit "Saint Pierre and Miquelon"
+  set type geography
+  set country "PM"
+next
+edit "Saint Vincent and the Grenadines"
+  set type geography
+  set country "VC"
+next
+edit "Samoa"
+  set type geography
+  set country "WS"
+next
+edit "San Marino"
+  set type geography
+  set country "SM"
+next
+edit "Sao Tome and Principe"
+  set type geography
+  set country "ST"
+next
+edit "Saudi Arabia"
+  set type geography
+  set country "SA"
+next
+edit "Senegal"
+  set type geography
+  set country "SN"
+next
+edit "Serbia"
+  set type geography
+  set country "RS"
+next
+edit "Seychelles"
+  set type geography
+  set country "SC"
+next
+edit "Sierra Leone"
+  set type geography
+  set country "SL"
+next
+edit "Singapore"
+  set type geography
+  set country "SG"
+next
+edit "Sint Maarten"
+  set type geography
+  set country "SX"
+next
+edit "Slovakia"
+  set type geography
+  set country "SK"
+next
+edit "Slovenia"
+  set type geography
+  set country "SI"
+next
+edit "Solomon Islands"
+  set type geography
+  set country "SB"
+next
+edit "Somalia"
+  set type geography
+  set country "SO"
+next
+edit "South Africa"
+  set type geography
+  set country "ZA"
+next
+edit "South Korea"
+  set type geography
+  set country "KR"
+next
+edit "South Sudan"
+  set type geography
+  set country "SS"
+next
+edit "Spain"
+  set type geography
+  set country "ES"
+next
+edit "Sri Lanka"
+  set type geography
+  set country "LK"
+next
+edit "Sudan"
+  set type geography
+  set country "SD"
+next
+edit "Suriname"
+  set type geography
+  set country "SR"
+next
+edit "Svalbard and Jan Mayen"
+  set type geography
+  set country "SJ"
+next
+edit "Swaziland"
+  set type geography
+  set country "SZ"
+next
+edit "Sweden"
+  set type geography
+  set country "SE"
+next
+edit "Switzerland"
+  set type geography
+  set country "CH"
+next
+edit "Syria"
+  set type geography
+  set country "SY"
+next
+edit "Taiwan"
+  set type geography
+  set country "TW"
+next
+edit "Tajikistan"
+  set type geography
+  set country "TJ"
+next
+edit "Tanzania"
+  set type geography
+  set country "TZ"
+next
+edit "Thailand"
+  set type geography
+  set country "TH"
+next
+edit "Togo"
+  set type geography
+  set country "TG"
+next
+edit "Tokelau"
+  set type geography
+  set country "TK"
+next
+edit "Tonga"
+  set type geography
+  set country "TO"
+next
+edit "Trinidad and Tobago"
+  set type geography
+  set country "TT"
+next
+edit "Tunisia"
+  set type geography
+  set country "TN"
+next
+edit "Turkey"
+  set type geography
+  set country "TR"
+next
+edit "Turkmenistan"
+  set type geography
+  set country "TM"
+next
+edit "Turks and Caicos Islands"
+  set type geography
+  set country "TC"
+next
+edit "Tuvalu"
+  set type geography
+  set country "TV"
+next
+edit "U.S. Virgin Islands"
+  set type geography
+  set country "VI"
+next
+edit "Uganda"
+  set type geography
+  set country "UG"
+next
+edit "Ukraine"
+  set type geography
+  set country "UA"
+next
+edit "United Arab Emirates"
+  set type geography
+  set country "AE"
+next
+edit "United Kingdom"
+  set type geography
+  set country "GB"
+next
+edit "United States"
+  set type geography
+  set country "US"
+next
+edit "Uruguay"
+  set type geography
+  set country "UY"
+next
+edit "Uzbekistan"
+  set type geography
+  set country "UZ"
+next
+edit "Vanuatu"
+  set type geography
+  set country "VU"
+next
+edit "Vatican"
+  set type geography
+  set country "VA"
+next
+edit "Venezuela"
+  set type geography
+  set country "VE"
+next
+edit "Vietnam"
+  set type geography
+  set country "VN"
+next
+edit "Wallis and Futuna"
+  set type geography
+  set country "WF"
+next
+edit "Western Sahara"
+  set type geography
+  set country "EH"
+next
+edit "Yemen"
+  set type geography
+  set country "YE"
+next
+edit "Zambia"
+  set type geography
+  set country "ZM"
+next
+edit "Zimbabwe"
+  set type geography
+  set country "ZW"
+end
